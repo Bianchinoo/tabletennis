@@ -552,4 +552,4 @@ class TableTennis(object):
 if __name__ == '__main__':
 #    renew_all()    # Для первоначального заполнения
     _t = TableTennis()
-    _t.get_predictions('Богданов Д', 'Староверов В')
+    _t.get_predictions('Зирин А', 'Духин М')
